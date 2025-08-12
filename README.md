@@ -2,7 +2,6 @@
 # AI Resume Analyzer 📝
 The AI Resume Analyzer is an intelligent web-based tool designed to help job seekers evaluate and enhance their resumes by comparing them directly against a specific job description. Leveraging advanced AI models, this tool simulates how Applicant Tracking Systems (ATS) and recruiters assess your resume for relevance, alignment, and suitability for a role. Completely in a single Python file.
 
-Watch our [Youtube Tutorial](https://youtu.be/XfoHr9GivCs) for a Demo and detailed explanation of installation steps and code.
 
 ## 🔍 What Does This Project Do?
 ### 1. Resume Text Extraction
@@ -93,6 +92,7 @@ Upload a resume, paste a job description, and let the AI analyze your resume for
 - Embedding Model is "sentence-transformers/all-mpnet-base-v2" ,Change to the model you desire (Ex: BERT, SBERT,etc)
 - Currently using Groq API and LLM model is "llama-3.3-70b-versatile", Change is model is removed or use other API's like OpenAI-GPT-4o model.
 - Change the Title, Labels and other names and display formats according to your liking.
+
 
 
 
